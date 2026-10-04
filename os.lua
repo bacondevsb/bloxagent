@@ -5403,7 +5403,7 @@ local MARKDOWN_DEMO = table.concat({
 	"###### Heading 6",
 	"",
 	"Normal text with **bold**, *italic*, _also italic_, and ~~strikethrough~~.",
-	"We also have `inline code` and [a link](https://example.com).",
+	"We also have `inline code` and [a link](https://roblox.com).",
 	"",
 	"> This is a blockquote.",
 	"> With multiple lines.",
